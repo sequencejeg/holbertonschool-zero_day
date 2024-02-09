@@ -1,2 +1,1 @@
-My first readme
-& some changes
+My first readme for my Git project exercises. 
